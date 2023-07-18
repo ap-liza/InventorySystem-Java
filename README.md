@@ -1,1 +1,1 @@
-# temporal
+# Inventory system in Java
